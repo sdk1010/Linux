@@ -1,6 +1,6 @@
 # **Linux Learning**
 
-![icons8-linux-96](https://github.com/sdk1010/Linux/assets/145788176/91ad0f51-0a05-4690-a69c-9322a38a3b2c)
+[![icons8-linux-96](https://github.com/sdk1010/Linux/assets/145788176/91ad0f51-0a05-4690-a69c-9322a38a3b2c)][1]
 
 ## What is Linux???
 
