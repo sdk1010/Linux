@@ -25,3 +25,5 @@ Other distributions are commercial and intended for enterprise use, including Re
 Many distributions use a combination of community- and corporate-supported development, such as Red Hat's Fedora, openSUSE from SUSE and Ubuntu from Canonical.
 
 ![popular_linux_distributions](https://github.com/sdk1010/Understanding-Linux/assets/145788176/db07dfd7-c96b-4bb1-8461-2fee1b219feb)
+
+[1]: https://www.linuxfoundation.org/
